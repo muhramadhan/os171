@@ -1,0 +1,2 @@
+di week ini diajarkan basic terminal linux dan juga basic git seperti clone pull push
+dan juga diajarkan scripting basic
