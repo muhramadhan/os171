@@ -20,3 +20,4 @@ drwxr-xr-x  2 muhammad.ramadhan51 StafCS 4096 Feb 17 22:11 week09
 drwxr-xr-x  2 muhammad.ramadhan51 StafCS 4096 Feb 17 22:11 week10
 drwxr-xr-x  2 muhammad.ramadhan51 StafCS 4096 Feb 17 22:11 xtra
 /home/fasilkom/mahasiswa/m/muhammad.ramadhan51/os171/week01
+Today is 17 Feb 2017 at 22:52:06
