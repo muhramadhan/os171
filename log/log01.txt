@@ -1,5 +1,8 @@
-w00-170207-13-LR-About: Pengenalan os, dari kelas
-w00-170209-13-LR-About: Pengenalan os, dari kelas
 w01-170214-13-LR-About: basic linux terminal command, dari kelas
+w01-170214-13-LR-About: basic linux terminal command, dari kelas
+w01-170214-14-LR-About: basic linux terminal command, dari kelas
 w01-170216-13-LR-About: basic shell scripting dari kelas
+w01-170216-13-LR-About: basic shell scripting dari kelas
+w01-170216-14-LR-About: basic shell scripting dari kelas
+w01-170217-22-PS-About: mengerjakan lab week01
 w01-170217-22-PS-About: mengerjakan lab week01
