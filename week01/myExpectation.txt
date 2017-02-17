@@ -1,1 +1,3 @@
 #muhramadhan
+di week ini lab diajarkan basic basic terminal linux seperti mkdir ls rm
+dan juga basic scripting
