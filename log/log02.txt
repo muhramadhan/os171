@@ -1,0 +1,8 @@
+w02-170221-13-LR-About: Protection and security
+w02-170221-13-LR-About: Protection and security
+w02-170221-14-LR-About: Protection and security
+w02-170222-20-PS-About: mengerjakan task week02
+w02-170222-20-PS-About: mengerjakan task week02
+w02-170223-13-LR-About: scripting in C dari kelas
+w02-170223-13-LR-About: scripting in C dari kelas
+w02-170224-14-LR-About: scripting in C dari kelas
