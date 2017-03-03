@@ -1,0 +1,11 @@
+w03-170228-13-LR-About: Linux Filesystem dari kelas
+w03-170228-13-LR-About: Linux Filesystem dari kelas
+w03-170228-14-LR-About: Linux filesystem dari kelas
+w03-170302-13-LR-About: BIOS dan booting
+w03-170302-13-LR-About: BIOS dan booting
+w03-170302-14-LR-About: BIOS dan booting
+w03-170303-22-LR-About: Linux booting event dari http://www.thegeekstuff.com/2011/02/linux-boot-process dan slide scele
+w03-170303-22-LR-About: Linux booting event dari http://www.thegeekstuff.com/2011/02/linux-boot-process dan slide scele
+w03-170303-23-LR-About: Kegunaan sudo start dari http://askubuntu.com/questions/228288/what-does-sudo-service-do
+w03-170303-23-PS-About: mengerjakan task week03
+w03-170304-24-PS-About: mengerjakan task week03
