@@ -1,0 +1,9 @@
+w05-170314-13-LR-About: Memory dari kelas
+w05-170314-13-LR-About: Memory dari kelas
+w05-170314-14-LR-About: Memory dari kelas
+w05-170316-13-LR-About: Memory, Paging, FIFO, LRU dari kelas
+w05-170316-13-LR-About: Memory, Paging, FIFO, LRU dari kelas
+w05-170316-14-LR-About: Memory, Paging, FIFO, LRU dari kelas
+w05-170316-22-LR-About: Malloc and system dari https://www.tutorialspoint.com/c_standard_library/c_function_malloc.htm dan https://www.tutorialspoint.com/c_standard_library/c_function_system.htm
+
+
