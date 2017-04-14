@@ -1,1 +1,7 @@
-
+w06-170411-13-LR-About: Fork dari kelas
+w06-170411-13-LR-About: Fork dari kelas
+w06-170411-14-LR-About: Fork dari kelas
+w06-170414-16-LR-About: fungsi wait fflush dan fork dari https://linux.die.net/man/2/wait, http://stackoverflow.com/questions/2530663/printf-anomaly-after-fork, http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html
+w06-170314-16-LR-About: fungsi wait fflush dan fork dari https://linux.die.net/man/2/wait, http://stackoverflow.com/questions/2530663/printf-anomaly-after-fork, http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html
+w06-170314-17-PS-About: Lab week6
+w06-170314-17-PS-About: Lab week6
